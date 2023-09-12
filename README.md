@@ -7,7 +7,7 @@ Extension of work done by Su Pang, Daniel Morris, Hayder Radha on 3D object dete
   booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   year={2020}
   organization={IEEE}
-}
+} 
 
 
 ## Introduction
