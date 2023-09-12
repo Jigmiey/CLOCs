@@ -7,4 +7,4 @@ The fact that the CLOCs adopt late fusion makes it flexible and can incorporate 
 1. SECOND
 2. Voxel - RCNN
 
-and Cascade RCNN is the only 2D detector used here. Therfore, we obtain two combinations of 2D-3D detectors.  
+and Cascade RCNN is the only 2D detector used here. Therfore, we obtain two combinations of 2D-3D detectors.   
