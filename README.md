@@ -15,7 +15,6 @@ and Cascade RCNN is the only 2D detector used here. Therfore, we obtain two comb
 
 ## Results 
 <img width="743" alt="second-cascade" src="https://github.com/Jigmiey/CLOCs/assets/48585119/e0903f01-a809-4093-9c48-d03d3cf8db00">
-helo there
 <img width="766" alt="voxel-cascadercnn" src="https://github.com/Jigmiey/CLOCs/assets/48585119/55bd8974-2ee1-43da-8414-38c187d4ecc7">
 
 
