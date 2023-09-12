@@ -1,14 +1,14 @@
 # Camera Lidar Object Candidates for 3D Object Detection 
 Extension of work done by Su Pang, Daniel Morris, Hayder Radha on 3D object detection by fusing LiDAR and Camera sensory data. 
-
-> @article{pang2020clocs,
+'''
+@article{pang2020clocs,
   title={CLOCs: Camera-LiDAR Object Candidates Fusion for 3D Object Detection},
   author={Pang, Su and Morris, Daniel and Radha, Hayder},
   booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   year={2020}
   organization={IEEE}
 } 
-
+'''
 
 ## Introduction
 For 3D object recognition, mainly three kinds of fusion can be done which are early, intermediate and late fusion.  Camera Lidar Object Candidates' Fusion (CLOCs) is a late fusion technique that combines 2D (from Camera)and 3D detectors(from Lidar) proposals and improve the detection results(prediction score). 
