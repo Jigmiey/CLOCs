@@ -4,7 +4,7 @@ Extension of work done by Su Pang, Daniel Morris, Hayder Radha on 3D object dete
 
 @article{pang2020clocs,
   title={CLOCs: Camera-LiDAR Object Candidates Fusion for 3D Object Detection},
-  author={Pang, Su and Morris, Daniel and Radha, Hayder},
+  author={Pang, Su and Morris, Daniel and Radha, Hayder}, 
   booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   year={2020}
   organization={IEEE}
