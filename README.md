@@ -8,10 +8,9 @@ The fact that the CLOCs adopt late fusion makes it flexible and can incorporate 
 2. Voxel - RCNN
 
 and Cascade RCNN is the only 2D detector used here. Therfore, we obtain two combinations of 2D-3D detectors.  
-
 ## Network Architectures 
 <img width="714" alt="clcs" src="https://github.com/Jigmiey/CLOCs/assets/48585119/c7b84e8e-e551-4492-99da-1528118bbc19">
-hello there 
+
 <img width="729" alt="fusion" src="https://github.com/Jigmiey/CLOCs/assets/48585119/c4873cac-f9e0-4589-8f67-eb9058a90ad8">
 
 ## Results 
