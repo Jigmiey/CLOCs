@@ -1,7 +1,7 @@
 # Camera Lidar Object Candidates for 3D Object Detection 
 Extension of work done by Su Pang, Daniel Morris, Hayder Radha on 3D object detection by fusing LiDAR and Camera sensory data. 
 
-@article{pang2020clocs,
+> @article{pang2020clocs,
   title={CLOCs: Camera-LiDAR Object Candidates Fusion for 3D Object Detection},
   author={Pang, Su and Morris, Daniel and Radha, Hayder},
   booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
